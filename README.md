@@ -1,2 +1,2 @@
 # ProxyPoolManager
-动态线程池
+动态代理池，爬虫用
